@@ -6150,6 +6150,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1233365128
 GameObject:
   m_ObjectHideFlags: 0
@@ -11277,6 +11278,8 @@ ParticleSystem:
         m_RotationOrder: 4
     vectorLabel1_3: W
 >>>>>>> e546e15183c0d709f7f6184fff9e8da71c1be7aa
+=======
+>>>>>>> parent of e546e15 (maaaaaaaaaaaaaaaaaaaaaaaaa)
 =======
 >>>>>>> parent of e546e15 (maaaaaaaaaaaaaaaaaaaaaaaaa)
 =======
@@ -16682,6 +16685,7 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1624615944
 =======
 --- !u!1 &1688458608
@@ -16715,6 +16719,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1263384636}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+=======
+>>>>>>> parent of e546e15 (maaaaaaaaaaaaaaaaaaaaaaaaa)
 =======
 >>>>>>> parent of e546e15 (maaaaaaaaaaaaaaaaaaaaaaaaa)
 =======
